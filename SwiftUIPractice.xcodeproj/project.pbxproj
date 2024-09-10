@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F688ED3F2C909F9300C4B7AF /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F688ED3E2C909F9300C4B7AF /* TextView.swift */; };
 		F6C5F1922C8F4A3E00DA5364 /* SwiftUIPracticeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6C5F1912C8F4A3E00DA5364 /* SwiftUIPracticeApp.swift */; };
 		F6C5F1942C8F4A3E00DA5364 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6C5F1932C8F4A3E00DA5364 /* ContentView.swift */; };
 		F6C5F1962C8F4A3E00DA5364 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6C5F1952C8F4A3E00DA5364 /* Item.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F688ED3E2C909F9300C4B7AF /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		F6C5F18E2C8F4A3E00DA5364 /* SwiftUIPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6C5F1912C8F4A3E00DA5364 /* SwiftUIPracticeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIPracticeApp.swift; sourceTree = "<group>"; };
 		F6C5F1932C8F4A3E00DA5364 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				F6C5F1912C8F4A3E00DA5364 /* SwiftUIPracticeApp.swift */,
 				F6C5F1932C8F4A3E00DA5364 /* ContentView.swift */,
 				F6C5F1952C8F4A3E00DA5364 /* Item.swift */,
+				F688ED3E2C909F9300C4B7AF /* TextView.swift */,
 				F6C5F1972C8F4A3F00DA5364 /* Assets.xcassets */,
 				F6C5F1992C8F4A3F00DA5364 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F6C5F1942C8F4A3E00DA5364 /* ContentView.swift in Sources */,
+				F688ED3F2C909F9300C4B7AF /* TextView.swift in Sources */,
 				F6C5F1962C8F4A3E00DA5364 /* Item.swift in Sources */,
 				F6C5F1922C8F4A3E00DA5364 /* SwiftUIPracticeApp.swift in Sources */,
 			);
